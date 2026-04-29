@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Documentos\pagos\bin\Debug\pagos.exe.config
+C:\Users\Usuario\OneDrive\Documentos\pagos\bin\Debug\pagos.exe
+C:\Users\Usuario\OneDrive\Documentos\pagos\bin\Debug\pagos.pdb
+C:\Users\Usuario\OneDrive\Documentos\pagos\obj\Debug\pagos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\pagos\obj\Debug\pagos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\pagos\obj\Debug\pagos.exe
+C:\Users\Usuario\OneDrive\Documentos\pagos\obj\Debug\pagos.pdb
